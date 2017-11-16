@@ -1,0 +1,26 @@
+h1
+{
+font-family: algerian;
+font-size: 40pt;
+color: blue;
+text-align: center;
+}
+
+p
+{
+font-family: times new roman;
+font-size: 20pt;
+color: green;
+text-align: left;
+}
+
+body
+{
+background-color: lightgrey;
+}
+
+h2 {
+	font-size: 30pt;
+	color: red;
+	text-align: center;
+}
